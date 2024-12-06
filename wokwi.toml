@@ -1,0 +1,3 @@
+[uart.bridge]
+device = "uart0"
+endpoint = "ws://localhost:3000"
